@@ -1,4 +1,4 @@
-# 🌐 Aditya Bhatt — Cybersecurity Portfolio
+# 🌐 gopi krishna — Cybersecurity Portfolio
 
 Welcome to my personal portfolio website, hosted via GitHub Pages!
 
@@ -10,7 +10,7 @@ This website showcases my professional journey, technical skills, certifications
 
 ## 🚀 Live Website
 
-Visit the portfolio: [https://adityabhatt3010.github.io](https://adityabhatt3010.github.io)
+
 
 ---
 
@@ -62,12 +62,7 @@ This site is deployed using [GitHub Pages](https://pages.github.com/), a free an
 
 ## 📧 Connect With Me
 
-- 🔗 [Linktree](https://linktr.ee/AdityaBhatt3010)
-- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-bhatt-b61868250/)
-- 🐙 [GitHub](https://github.com/adityabhatt3010)
-- 📝 [Medium](https://medium.com/@info.adityabhatt3010)
-- 🛡️ [TryHackMe](https://tryhackme.com/p/info.adityabhatt)
-- 🎖️ [Credly](https://www.credly.com/users/aditya-bhatt3010)
+
 
 ---
 
